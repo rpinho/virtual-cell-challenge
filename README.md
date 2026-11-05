@@ -10,6 +10,10 @@ workbench, with historical experiments retained as source.
 when recorded. We are well behind the leading entries and would welcome help.
 Start with [lessons and concrete open questions](LESSONS_AND_HELP_WANTED.md)
 and the [builder and reproduction guide](REPRODUCING.md). Issues and PRs welcome.
+One measurement to keep in mind: on the real data, two halves of the same
+experiment agree at cosine 0.65, and our predictions reach 0.08, about a tenth
+of that estimated ceiling (`bio_gap_1026/ceiling`, split-half method credited to
+@zymobyte012).
 
 Start with the [short retro](RETRO.md): what we did, what broke, what I would do
 differently and where I think this is going. Then the [full retrospective](RETROSPECTIVE.md): the official submission
@@ -78,14 +82,15 @@ score, and this export has not been rerun on the full official panel.
 ## FINAL PHASE
 
 The [final phase](https://virtualcellchallenge.org/) uses vcc2026-test-1 and new
-D/E/F contexts. Scores stay hidden until the organizers publish them. Final
-submission deadline: **November 5, 2026, 23:59 UTC**.
+D/E/F contexts. Scores stay hidden until the organizers publish them. The
+submission window closed on **November 5, 2026, 23:59 UTC**. Our last entry was
+submitted on October 23; the final-phase scores are not out yet.
 
 | Submitted (UTC) | Entry | Recipe / status |
 |---|---|---|
 | 2026-10-22 05:23 | BKgFJX4gmteiZB88HSLe | billmA v9 layout safety recipe; submitted, score hidden |
 | 2026-10-22 08:13 | LIREtFnPJLkMXZprp7Q9 | direction-knob variant; superseded, score hidden |
-| **2026-10-23 01:03** | **5NeeoWn96lfm23hgExcm** | **current last entry: billmA v9 layout safety recipe**, same package as the first entry; score hidden |
+| **2026-10-23 01:03** | **5NeeoWn96lfm23hgExcm** | **final entry: billmA v9 layout safety recipe**, same package as the first entry; score hidden |
 
 The last entry was restored after the direction-knob variant lost about 0.008
 locally on an official-scorer ablation. That comparison is local evidence, not a
