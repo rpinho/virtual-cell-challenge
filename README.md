@@ -11,9 +11,10 @@ when recorded. We are well behind the leading entries and would welcome help.
 Start with [lessons and concrete open questions](LESSONS_AND_HELP_WANTED.md)
 and the [builder and reproduction guide](REPRODUCING.md). Issues and PRs welcome.
 One measurement to keep in mind: on the real data, two halves of the same
-experiment agree at cosine 0.65, and our predictions reach 0.08, about a tenth
-of that estimated ceiling (`bio_gap_1026/ceiling`, split-half method credited to
-@zymobyte012).
+experiment agree at cosine 0.65, and our predictions reach 0.08, about 12% of
+that agreement, and about 10% of the estimated full-data ceiling
+([bio_gap_1026/ceiling](bio_gap_1026/ceiling/REPORT.md), split-half method
+credited to @zymobyte012).
 
 Start with the [short retro](RETRO.md): what we did, what broke, what I would do
 differently and where I think this is going. Then the [full retrospective](RETROSPECTIVE.md): the official submission
