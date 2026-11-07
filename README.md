@@ -1,5 +1,7 @@
 # VCC 2026: public perturbation prediction pipeline
 
+> Part of my AI-for-biology work: [the map and the field retro](https://github.com/rpinho/ai-biology).
+
 Our research code for the [Virtual Cell Challenge 2026](https://virtualcellchallenge.org/):
 source-response transfer, control-conditioned integer-count generation, DE-aware
 emission and local evaluation. We are publishing the implementation so others can
