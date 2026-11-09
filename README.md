@@ -1,4 +1,6 @@
-# VCC 2026: public perturbation prediction pipeline
+![Virtual Cell Challenge](assets/banner.png)
+
+# Virtual Cell Challenge 2026: public perturbation prediction pipeline
 
 > Part of my AI-for-biology work: [the map and the field retro](https://github.com/rpinho/ai-biology).
 
