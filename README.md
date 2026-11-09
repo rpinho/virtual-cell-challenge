@@ -1,4 +1,4 @@
-![Virtual Cell Challenge](assets/banner.png)
+![Virtual Cell Challenge](assets/banner.jpg)
 
 # Virtual Cell Challenge 2026: public perturbation prediction pipeline
 
