@@ -26,7 +26,7 @@ Two halves of the same real cells agree at about 0.65, so the 0.084 is not noise
 
 It was not that some targets had no data. The targets that did have public data carried 99.5% of the error. The public data is from other cell types, and that is what was missing: data from the same cell type.
 
-If you have other knockdowns in the same cell type, alignment goes from 0.115 to 0.42. The final phase takes exactly that away. So we did the same thing to ourselves and held out whole cell types, and we were at 0.118, the same as before ([biology diagnostics](bio_gap_1026/REPORT.md)).
+If you have other knockdowns in the same cell type, alignment goes from 0.115 to 0.42. The final phase takes exactly that away. So we did the same thing to ourselves and held out whole cell types, and we got 0.118: no better than the 0.115 without that data ([biology diagnostics](bio_gap_1026/REPORT.md)).
 
 Most of the fixes that made the error smaller did it by moving what we predict to 0, which the MSE part of the score does not pay you for.
 
