@@ -3,7 +3,7 @@
 **billmA 0.16438 remains our best recorded official validation result.** Validation
 closed on October 22; final scores are hidden. Nothing below is a new leaderboard
 result. The existing final safety recipe remains the reference. The longer
-[retrospective](RETROSPECTIVE.md) explains the complete submission history.
+[retrospective](RETRO.md) explains the complete submission history.
 
 This follows the [morning update](RESEARCH_UPDATE_20261026.md). Names such as
 `official_N1` in historical scripts mean the official scorer **run locally**, on

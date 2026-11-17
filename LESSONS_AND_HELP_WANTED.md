@@ -108,7 +108,7 @@ a new official score or an accepted replacement.
 
 ## Afternoon/evening evidence and revised priorities
 
-The [full retrospective](RETROSPECTIVE.md) covers every recorded submission and
+The [full retrospective](RETRO.md) covers every recorded submission and
 the corrections to our reasoning. The [second October 26 update](RESEARCH_UPDATE_20261026b.md)
 adds N1, P1a, seed/amplitude maps, call-budget/ordering screens, failed MSE
 instrumentation and the training168 biology studies. Their results refine the

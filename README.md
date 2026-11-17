@@ -20,9 +20,8 @@ that agreement, and about 10% of the estimated full-data ceiling
 ([bio_gap_1026/ceiling](bio_gap_1026/ceiling/REPORT.md), split-half method
 credited to @zymobyte012).
 
-Start with the [short retro](RETRO.md): what we did, what broke, what I would do
-differently and where I think this is going. Then the [full retrospective](RETROSPECTIVE.md): the official submission
-arc, failed local improvements, harness calibration and biology diagnostics.
+Start with the [retro](RETRO.md): what we did, what broke, what I would do
+differently and where I think this is going.
 The latest [October 26 afternoon/evening update](RESEARCH_UPDATE_20261026b.md)
 follows the [morning update](RESEARCH_UPDATE_20261026.md), with results and links
 for direction, magnitude, rendering and context-transfer tests. There is no new
